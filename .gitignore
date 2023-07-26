@@ -53,3 +53,4 @@ jspm_packages
 
 lib/*.db
 lib/*.db-journal
+.vscode
